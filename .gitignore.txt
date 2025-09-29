@@ -1,0 +1,10 @@
+# Ignorar arquivos de dados sensíveis
+Contatos.xlsx
+
+# Ignorar imagens e mídias
+*.jpeg
+*.jpg
+*.png
+
+# Ignorar pastas do Python
+__pycache__/
